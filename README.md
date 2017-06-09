@@ -9,6 +9,7 @@ PostgreSQL
 Installation:
 
 npm install --save
+
 psql -U USERNAME rss < dbexport.pgsql
 
 Run:
